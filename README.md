@@ -1,11 +1,52 @@
-# html-
-HTML5 Coursera Final project
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>webdesign</title>
+</head>
+<body>
+<header>
+    <h1>Srujana</h1>
+<nav>
+    <a href="http://www.gmail.com">one</a>
+    <a href="http://www.facebook.com">two</a>
+    <a href="http://www.instagram.com">three</a>
+    <a href="http://www.github.com">GitHub</a>
+</nav>
+</header>
 
-This code I have written for final project in Coursera HTML5 course
+<section>
+<h2>Favorite Foods</h2>
+<ul>
+    <li>Maggi</li>
+    <li>Pizza</li>
+    <li>Cake</li>
+    <li>Sandwich</li>
+</ul>
+</section>
 
-Attachments:
-1. finalproject.html
-2. ProjectDescription.png
+<section>
+<h2>Achievements</h2>
+    <p>Progress in this course (100%)<progress value="1"></progress><br/>
+        Progress in this Specialization capstone (20%)<progress value="20" max="100"></progress><br/>
+        Progress in life goals (50%)<progress value = "50" max="100"></progress></p>
+    </section>
 
-The Project description is what you need to replicate in your code which is highlighted in yellow content
+<section>
+<h2>More About Me</h2>
+<details>
+    <summary>My Childhood</summary>
+<p>Born and brought up in Bangalore</p>
+</details>
+</section>
+
+<footer>
+    <p>
+    <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="newlogo">
+This page created by Sai Srujana and Colleen van lent.
+To learn more about web design,visit 
+    <a href="http://www.intro-webdesign.com/">Intro to Web Design</a></p>
+    </footer>
+    </body>
+</html>
 
